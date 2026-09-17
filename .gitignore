@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+
+# Environment variables and secrets
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local database
+data/database/
+
+# Local Qdrant vector database
+data/embeddings/qdrant/
+
+# Generated/exported files
+data/exports/
+
+# Local PDF documents
+data/pdfs/
+
+# Streamlit
+.streamlit/
