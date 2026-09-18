@@ -1,4 +1,8 @@
 # Engineering Knowledge Assistant
+![Engineering Knowledge Assistant demo](screenshots/assistant-demo.png)
+
+![Engineering Knowledge Assistant interface](screenshots/assistant-demo1.png)
+
 
 An AI-powered engineering document assistant that uses Retrieval-Augmented Generation (RAG) to answer questions from technical documents.
 
